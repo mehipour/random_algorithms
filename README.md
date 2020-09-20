@@ -1,6 +1,14 @@
-# jarvis_march_algorithm
-Jarvis march algorithm and a test case to find the convex hull.
+# Collection of Algorithms and Test Cases
 
-created by Mehrdad Pourfathi
+Created by: Mehrdad Pourfathi
 
-9/17/2020.
+Updatd on: 9/20/2020
+
+* Sorting Algorithms:
+  * Insertion Sort
+  * Selection Sort
+  * Bubble Sort
+  * Quick Sort
+  
+* Convex Hull Estimation
+  * Jarvis March
