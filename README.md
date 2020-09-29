@@ -2,7 +2,7 @@
 
 Created by: Mehrdad Pourfathi
 
-Updatd on: 9/20/2020
+Updatd on: 9/28/2020
 
 * Sorting Algorithms:
   * Insertion Sort
@@ -12,3 +12,7 @@ Updatd on: 9/20/2020
   
 * Convex Hull Estimation
   * Jarvis March
+
+* Curve Estimation
+  * Ramer-Douglas-Peucker
+
