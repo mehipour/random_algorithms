@@ -2,7 +2,7 @@
 
 Created by: Mehrdad Pourfathi
 
-Updatd on: 9/28/2020
+Updatd on: 10/12/2020
 
 * Sorting Algorithms:
   * Insertion Sort
@@ -15,4 +15,7 @@ Updatd on: 9/28/2020
 
 * Curve Estimation
   * Ramer-Douglas-Peucker
+
+* Signal Processing
+	* 1D Convolution
 
